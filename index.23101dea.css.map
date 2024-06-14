@@ -1,1 +1,0 @@
-{"mappings":"ACAA,oBAAA","sources":["index.23101dea.css","src/styles.less"],"sourcesContent":["body {\n  font-size: 20px;\n}\n\nbody .button, body .link {\n  display: block;\n}\n/*# sourceMappingURL=index.23101dea.css.map */\n","body {\r\n    font-size: 20px;\r\n    .button, .link{\r\n        display: block;\r\n    }\r\n}"],"names":[],"version":3,"file":"index.23101dea.css.map"}
